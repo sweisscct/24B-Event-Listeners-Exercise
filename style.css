@@ -1,0 +1,7 @@
+.invalid-password {
+    background-color: crimson;
+}
+
+.valid-password {
+    background-color: chartreuse;
+}
